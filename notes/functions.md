@@ -58,6 +58,5 @@ function sayName(name= "Thor"){
 
 sayName(); /*If I call the sayName function without passing a parameter,
  the alert message says "My name is Thor"*/
-
-
 ```
+
